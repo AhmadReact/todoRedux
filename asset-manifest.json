@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kingofwaseem/todoRedux.git/static/css/main.4cacdb5b.css",
-    "main.js": "/kingofwaseem/todoRedux.git/static/js/main.9e25a730.js",
-    "index.html": "/kingofwaseem/todoRedux.git/index.html",
-    "main.4cacdb5b.css.map": "/kingofwaseem/todoRedux.git/static/css/main.4cacdb5b.css.map",
-    "main.9e25a730.js.map": "/kingofwaseem/todoRedux.git/static/js/main.9e25a730.js.map"
+    "main.css": "/todoRedux/static/css/main.4cacdb5b.css",
+    "main.js": "/todoRedux/static/js/main.9e25a730.js",
+    "index.html": "/todoRedux/index.html",
+    "main.4cacdb5b.css.map": "/todoRedux/static/css/main.4cacdb5b.css.map",
+    "main.9e25a730.js.map": "/todoRedux/static/js/main.9e25a730.js.map"
   },
   "entrypoints": [
     "static/css/main.4cacdb5b.css",
